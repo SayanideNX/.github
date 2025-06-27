@@ -1,6 +1,8 @@
 # 🧠 SAYANIDE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1976D2&center=true&vCenter=true&width=600&lines=SayanideNX;Explode+Ordinary%2C+Ignite+Intelligence;Sayanide+-+Code%2C+Create%2C+Dominate;Built+to+Break+Limits;Sayanide%3A+Where+Madness+Meets+Logic;Synthetically+Engineered%2C+Organically+Brilliant;Not+Just+Code+-+It's+a+Catalyst" alt="Typing SVG" align="center" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1976D2&center=true&vCenter=true&width=600&lines=SayanideNX;Explode+Ordinary%2C+Ignite+Intelligence;Sayanide+-+Code%2C+Create%2C+Dominate;Built+to+Break+Limits;Sayanide%3A+Where+Madness+Meets+Logic;Synthetically+Engineered%2C+Organically+Brilliant;Not+Just+Code+-+It's+a+Catalyst" alt="Typing SVG" />
+</div>
 
 ![Built by SAYANIDE](https://img.shields.io/badge/built%20by-SAYANIDE-0a0a0a?style=for-the-badge&logo=react)
 ![Neural Grade: A+](https://img.shields.io/badge/neural_grade-A%2B-blueviolet?style=for-the-badge&logo=openai)
